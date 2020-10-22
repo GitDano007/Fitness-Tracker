@@ -16,4 +16,4 @@ View the combined weight of multiple exercises on the stats page
 
 https://dry-harbor-34309.herokuapp.com/?id=5f8349a547f04a0017b20a40
 
-https://github.com/GitDano007/fittracker
+https://github.com/GitDano007/Fitness-Tracker
